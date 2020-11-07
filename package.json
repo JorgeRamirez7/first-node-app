@@ -5,24 +5,26 @@
   "engines": {
     "node": "12.x"
   },
-  
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
-	"test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JorgeRamirez7/first-node-app"
+    "url": "git+https://github.com/JorgeRamirez7/first-node-app.git"
   },
   "keywords": [
     "nodejs",
     "heroku",
-	"mongodb"
+    "mongodb"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeRamirez7/first-node-app/issues"
+  },
+  "homepage": "https://github.com/JorgeRamirez7/first-node-app#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
