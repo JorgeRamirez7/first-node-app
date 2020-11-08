@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84a66b9a-348a-4c0c-a5db-08c2f0eb3d19" name="Default Changelist" comment="" />
+    <list default="true" id="84a66b9a-348a-4c0c-a5db-08c2f0eb3d19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/friends.json" beforeDir="false" afterPath="$PROJECT_DIR$/friends.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
